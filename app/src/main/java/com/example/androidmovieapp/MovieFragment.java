@@ -40,7 +40,7 @@ public class MovieFragment extends Fragment implements SharedPreferences.OnShare
 
     private void displayMovies(){
         SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(requireContext());
-        String apiKey = sharedPreferences.getString("97280ae5d106dad586a521f5ff1d871a","97280ae5d106dad586a521f5ff1d871a");
+        String apiKey = sharedPreferences.getString(/*paste your API key here*/,/*paste your API key here*/");
         if (!TextUtils.isEmpty(tag) && !TextUtils.isEmpty(apiKey)){
             switch (tag){
                 case MainActivity.FRAG_TAG_POPULAR:
