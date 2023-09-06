@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">androidmovieapp</string>
-    <string name="api_key_name">97280ae5d106dad586a521f5ff1d871a</string>
+    <string name="api_key_name">*****************</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="this_app_has_been_created_using_java_language_with_the_help_of_android_studio_ide_giraffe_2022_3_1_the_app_works_by_showing_the_list_of_movies_that_are_currently_popular_on_the_basis_of_there_rating">This app has been created using java language, with the help of android studio IDE giraffe 2022.3.1 , the app works by showing the list of movies that are currently popular on the basis of there rating</string>
