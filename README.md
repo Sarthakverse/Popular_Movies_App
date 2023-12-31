@@ -1,7 +1,7 @@
-# [A] Android Movie App
-### This Android Movie App project allows users to browse and discover popular and top-rated movies. It leverages the TMDb API to fetch movie data and displays it in a user-friendly interface.
+# [A] 🎬 Android Movie App
+### This Android Movie🍿 App project allows users to browse and discover popular and top-rated movies. It leverages the TMDb API to fetch movie data and displays it in a user-friendly interface.
 
-# [B] Project Overview
+# [B] 🚀 Project Overview
 ## MainActivity:
 ### The main activity of the app provides navigation options to switch between popular and top-rated movies. It uses fragments to display movie lists and utilizes the TMDb API for data retrieval.
 
